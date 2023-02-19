@@ -1,0 +1,6 @@
+format: 0.2.0
+project:
+  name: "Required_missing_field"
+  type: wasm/assemblyscript
+source:
+  module: ../index.ts
